@@ -1,0 +1,4 @@
+.navbar {
+  border-radius: 0; /** remove rounded corner **/
+  margin: 0; /** remove space between navbar and jumbotron **/
+}
